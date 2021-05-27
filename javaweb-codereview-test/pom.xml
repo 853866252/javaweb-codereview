@@ -71,7 +71,7 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.45</version>
         </dependency>
-
+        <!-- lookup parent from repository-->
         <dependency>
             <groupId>com.github.frohoff</groupId>
             <artifactId>ysoserial</artifactId>
